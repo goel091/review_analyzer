@@ -43,7 +43,7 @@ review_analyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/review-analyzer.git
+git clone https://github.com/goel091/review-analyzer.git
 cd review-analyzer
 ```
 
